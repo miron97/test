@@ -1,5 +1,5 @@
 1
 2 Ivanov
 3 Sidorov
-4 Petrov
-5 Sidorov
+4 Petrv
+5

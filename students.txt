@@ -2,4 +2,5 @@
 2 Ivanov
 3 Sidorov
 4 Petrov
-5 Mironov
+5 Malinin
+6 Mironov
